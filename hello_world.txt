@@ -1,0 +1,3 @@
+HellO!
+
+This is my first Git testing stage!
